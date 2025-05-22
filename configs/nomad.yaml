@@ -7,9 +7,6 @@ services:
 oasis:
   is_oasis: true
   uses_central_user_management: true
-  allowed_users: 
-    - tbereau
-    - hampusnasstrom
 
 north:
   tools:
